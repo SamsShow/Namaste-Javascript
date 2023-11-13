@@ -1,0 +1,3 @@
+**EP4**
+
+- The video shares an example of a user wanting to run a function last in a list of functions. The speaker emphasizes the importance of understanding variable environments and using specialized memory components to store important data. They also provide tips on dealing with circular references and improving performance. Additionally, the video explains how to create and call functions in JavaScript and provides examples of global variables and their usage in JavaScript programming. The host emphasizes the importance of using global variables sparingly to avoid naming conflicts and improve code organization.
